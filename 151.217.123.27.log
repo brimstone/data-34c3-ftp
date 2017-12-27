@@ -442,8 +442,74 @@ ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Config.cpp
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Config.h
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/DataLogFileHandler.cpp
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/DataLogFileHandler.h
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/BLC_DebugWindow.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/BLC_DebugWindow.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Config.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Config.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/DataLogFileHandler.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/DataLogFileHandler.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Download.bsc
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Download.exe
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Download.ilk
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Download.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Download.pch
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Download.pdb
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Download.res
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Download.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/DownloadDlg.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/DownloadDlg.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/NVList.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/NVList.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/NVManager.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/NVManager.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/NVManger.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/NVManger.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/New.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/New.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/NvNew.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/NvNew.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Password.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Password.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/PhoneCommand.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/PhoneCommand.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/PurviewManagement.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/PurviewManagement.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Report.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/Report.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/SERIAL_PORT_DATA.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/SERIAL_PORT_DATA.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/SerialPort.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/SerialPort.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/StdAfx.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/StdAfx.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/vc60.idb
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Debug/vc60.pdb
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.aps
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.clw
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.cpp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.dsp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.dsw
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.exe
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.h
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.ini
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.ncb
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.opt
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.plg
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Download.rc
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/DownloadDlg.cpp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/DownloadDlg.h
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Minimized.ssk
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/MultiDownload_7.9.3.rar
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/NVList.cpp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/NVList.h
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/NVList.ini
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/NVManager.cpp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/NVManager.h
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/NVManger.cpp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/NVManger.h
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/New.cpp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/New.h
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/NvNew.cpp
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/NvNew.h
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Password.cpp
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Password.h
@@ -452,7 +518,46 @@ ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/PhoneCommand.
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/PurviewManagement.cpp
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/PurviewManagement.h
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/ReadMe.txt
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/BLC_DebugWindow.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/BLC_DebugWindow.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Config.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Config.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/DataLogFileHandler.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/DataLogFileHandler.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Download.bsc
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Download.exe
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Download.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Download.pch
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Download.res
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Download.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/DownloadDlg.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/DownloadDlg.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/NVList.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/NVList.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/NVManager.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/NVManager.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/NVManger.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/NVManger.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/New.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/New.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/NvNew.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/NvNew.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Password.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Password.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/PhoneCommand.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/PhoneCommand.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/PurviewManagement.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/PurviewManagement.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Report.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/Report.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/SERIAL_PORT_DATA.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/SERIAL_PORT_DATA.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/SerialPort.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/SerialPort.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/StdAfx.obj
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/StdAfx.sbr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Release/vc60.idb
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Report.cpp
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/Report.h
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/SERIAL_PORT_DATA.cpp
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/SERIAL_PORT_DATA.h
@@ -462,6 +567,7 @@ ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/SkinPlusPlus.
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/SkinPlusPlusDLL.dll
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/SkinPlusPlusDLL.lib
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/SoftCrystal.ssk
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/StdAfx.cpp
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/StdAfx.h
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/XPCorona.ssk
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/com_1.cache
@@ -471,38 +577,43 @@ ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/diagpkt.h
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/module.h
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/nv.h
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/nv1.h
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/res/Download.ico
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/res/Download.rc2
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/res/Key.ico
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/res/MultiBootLoader.ico
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/res/SkinPlusPlusDLL.lib
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/res/dlding.bmp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/res/dlding1.bmp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/res/fail.bmp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/res/leadtech-1.bmp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/res/leadtech-2.bmp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/res/true.bmp
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/MultiDownload_7.9.3/resource.h
 ftp://151.217.123.27/Knowledge/Datasheets/CDMA/OTASP Introduction1.ppt
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/Soft handoff and Power control.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/analyzer_v1.03_install
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/app_cdma_final.ppt
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/ccb_bank.ppt
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/cdmacall1.ppt
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/qpst2.7
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/sms_overview.ppt
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/spread spectrum introdction.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/CDMA/walshcode.doc
-ftp://151.217.123.27/Knowledge/Datasheets/Corelogic_MPEG4
-ftp://151.217.123.27/Knowledge/Datasheets/DS_ACT5807_PrB_24APR08(Preliminary).pdf
-ftp://151.217.123.27/Knowledge/Datasheets/DS_CBM2090&CBM2090L_1107.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/EVDO
-ftp://151.217.123.27/Knowledge/Datasheets/Infineon
-ftp://151.217.123.27/Knowledge/Datasheets/LM3658.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/LP3927.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/LP3971.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/MW8209 Datasheet.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/MW8219_datasheet-v1.0.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/S3C44b0
-ftp://151.217.123.27/Knowledge/Datasheets/SCH_Asic_mod_eval_V3.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/SPCA554A Mobile Camera Presentation.ppt
-ftp://151.217.123.27/Knowledge/Datasheets/Sunplus Mobile DSC Development Manual.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/SyChip.VoIP.Products.9.17.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/SyVoice call manager API1.7.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/TOKO_VCO_KV1471E.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/U9~K9GAG08U0M~~2GB-FINAL_NAND-.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/WCDMA
-ftp://151.217.123.27/Knowledge/Datasheets/apmcomm profile_091029.pdf
-ftp://151.217.123.27/Knowledge/Datasheets/cbm2091_datasheet.pdf
-ftp://151.217.123.27/Knowledge/Gesundheit
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/DATA.TAG
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/README.TXT
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/SETUP.EXE
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/SETUP.INI
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/_INST32I.EX_
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/_ISDEL.EXE
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/_setup.dll
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/_sys1.cab
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/_user1.cab
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/data1.cab
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/lang.dat
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/layout.bin
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/os.dat
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/setup.bmp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/setup.ins
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QCT/setup.lid
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15/Setup.exe
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15/Setup.ini
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15/data1.cab
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15/data1.hdr
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15/data2.cab
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15/ikernel.ex_
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15/layout.bin
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15/license.txt
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15/readme.rls
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15/setup.bmp
+ftp://151.217.123.27/Knowledge/Datasheets/CDMA/QXDM 03.07.15/setup.inx
