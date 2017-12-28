@@ -257,48 +257,49 @@ ftp://151.217.47.61/Filme/28 Days Later/BDMV/BACKUP/index.bdmv
 ftp://151.217.47.61/Filme/28 Days Later/BDMV/CLIPINF/00000.clpi
 ftp://151.217.47.61/Filme/28 Days Later/BDMV/MovieObject.bdmv
 ftp://151.217.47.61/Filme/28 Days Later/BDMV/PLAYLIST/00000.mpls
-ftp://151.217.47.61/Filme/28 Days Later/BDMV/STREAM/00000.m2ts
-ftp://151.217.47.61/Filme/28 Days Later/BDMV/extrafanart/8cYCMPurDsswmWsKwb7ZMx49E2K.jpg
-ftp://151.217.47.61/Filme/28 Days Later/BDMV/extrafanart/e72Tim3eB5HOU331M8iAJPmazWX.jpg
-ftp://151.217.47.61/Filme/28 Days Later/BDMV/extrafanart/nESF8Tw4BYnDy8PUDkF5SLIlzTJ.jpg
-ftp://151.217.47.61/Filme/28 Days Later/BDMV/extrafanart/yUztTrOARxj1lgcPyrSCeGWigZO.jpg
-ftp://151.217.47.61/Filme/28 Days Later/BDMV/extrathumbs/thumb1.jpg
-ftp://151.217.47.61/Filme/28 Days Later/BDMV/extrathumbs/thumb2.jpg
-ftp://151.217.47.61/Filme/28 Days Later/BDMV/extrathumbs/thumb3.jpg
-ftp://151.217.47.61/Filme/28 Days Later/BDMV/extrathumbs/thumb4.jpg
+ftp://151.217.47.61/Filme/28 Days Later/BDMV/extrafanart
+ftp://151.217.47.61/Filme/28 Days Later/BDMV/extrathumbs
 ftp://151.217.47.61/Filme/28 Days Later/BDMV/index.bdmv
 ftp://151.217.47.61/Filme/28 Days Later/BDMV/index.nfo
+ftp://151.217.47.61/Filme/28 Days Later/CERTIFICATE
 ftp://151.217.47.61/Filme/28 Days Later/fanart.jpg
 ftp://151.217.47.61/Filme/28 Days Later/poster.jpg
-ftp://151.217.47.61/Filme/28_Weeks_Later/28_Weeks_Later-fanart.jpg
-ftp://151.217.47.61/Filme/28_Weeks_Later/28_Weeks_Later-poster.jpg
-ftp://151.217.47.61/Filme/28_Weeks_Later/28_Weeks_Later.mkv
-ftp://151.217.47.61/Filme/28_Weeks_Later/28_Weeks_Later.nfo
-ftp://151.217.47.61/Filme/300-(2006)/300 Dreihundert 2006 AC3 5.1 MKV h264 1080p German by AME.nfo
-ftp://151.217.47.61/Filme/300-(2006)/300byAME.mkv
-ftp://151.217.47.61/Filme/300-(2006)/Pic.jpg
-ftp://151.217.47.61/Filme/47 Ronin (2014)/47 Ronin-fanart.jpg
-ftp://151.217.47.61/Filme/47 Ronin (2014)/47 Ronin-poster.jpg
-ftp://151.217.47.61/Filme/47 Ronin (2014)/47 Ronin.mkv
-ftp://151.217.47.61/Filme/5 Centimeters Per Second (2007)/5 Centimeters Per Second (2007).mkv
-ftp://151.217.47.61/Filme/A_Clockwork_Orange-(1971)/A.Clockwork.Orange.1971.1080p.BrRip.x264.YIFY.srt
-ftp://151.217.47.61/Filme/A_Clockwork_Orange-(1971)/A.Clockwork.Orange.1971.1080p.x264.YIFY.mp4
-ftp://151.217.47.61/Filme/A_Clockwork_Orange-(1971)/A.Clockwork.Orange.1971.BluRay.720p.DTS.VC1.dxva-INtL.mkv
-ftp://151.217.47.61/Filme/A_Dangerous_Method-(2011)/A.Dangerous.Method.2011.1080p.MKV.x264.AC3.DTS.MultiSubs.mkv
-ftp://151.217.47.61/Filme/A_Serbian_Film-(2010)/A.Serbian.Film.UNCUT.German.2010.DL.DTS.1080p.BluRay.x264-GOREHOUNDS.nfo
-ftp://151.217.47.61/Filme/A_Serbian_Film-(2010)/Proof/gh-aserbianf1080-proof.jpg
-ftp://151.217.47.61/Filme/A_Serbian_Film-(2010)/Sample/gh-aserbianf1080-sample.mkv
-ftp://151.217.47.61/Filme/A_Serbian_Film-(2010)/Subs/gh-aserbianf1080-forced.idx
-ftp://151.217.47.61/Filme/A_Serbian_Film-(2010)/Subs/gh-aserbianf1080-forced.sub
-ftp://151.217.47.61/Filme/A_Serbian_Film-(2010)/Subs/gh-aserbianf1080.idx
-ftp://151.217.47.61/Filme/A_Serbian_Film-(2010)/Subs/gh-aserbianf1080.sub
-ftp://151.217.47.61/Filme/A_Serbian_Film-(2010)/gh-aserbianf1080.mkv
-ftp://151.217.47.61/Filme/A_Serbian_Film-(2010)/gh-aserbianf1080.nfo
-ftp://151.217.47.61/Filme/A_World_Beyond-(2015)/A.World.Beyond.2015.German.DTS.DL.1080p.BluRay.x264-EXQUiSiTE.mkv
-ftp://151.217.47.61/Filme/Akira/Akira.mkv
-ftp://151.217.47.61/Filme/Aladdin und der Koenig der Diebe/aladdin.und.der.koenig.der.diebe.1995.german.dl.1080p.hdtv.x264-noretail.mkv
-ftp://151.217.47.61/Filme/Aladdin-(1992)/Aladdin.1992.1080p.BluRay.X264-AMIABLE.mkv
-ftp://151.217.47.61/Filme/Allegiant-(2016)/Allegiant.2016.1080p.BluRay.x264-DRONES.mkv
+ftp://151.217.47.61/Filme/28_Weeks_Later
+ftp://151.217.47.61/Filme/300-(2006)
+ftp://151.217.47.61/Filme/47 Ronin (2014)
+ftp://151.217.47.61/Filme/47 Ronin 3D (2013)
+ftp://151.217.47.61/Filme/5 Centimeters Per Second (2007)
+ftp://151.217.47.61/Filme/71 (2014)
+ftp://151.217.47.61/Filme/96 Hours
+ftp://151.217.47.61/Filme/96 Hours Taken 2 Extended Cut (2012)
+ftp://151.217.47.61/Filme/96 Hours Taken 3 (2014)
+ftp://151.217.47.61/Filme/A Beautiful Mind (2001)
+ftp://151.217.47.61/Filme/A Million Ways To Die In The West (2014)
+ftp://151.217.47.61/Filme/A Nightmare on Elm Street
+ftp://151.217.47.61/Filme/A Scanner Darkly
+ftp://151.217.47.61/Filme/A.I. Artificial Intelligence (2001)
+ftp://151.217.47.61/Filme/A_Clockwork_Orange-(1971)
+ftp://151.217.47.61/Filme/A_Dangerous_Method-(2011)
+ftp://151.217.47.61/Filme/A_Serbian_Film-(2010)
+ftp://151.217.47.61/Filme/A_World_Beyond-(2015)
+ftp://151.217.47.61/Filme/After Earth (2013)
+ftp://151.217.47.61/Filme/Akira
+ftp://151.217.47.61/Filme/Aladdin (1992)
+ftp://151.217.47.61/Filme/Aladdin und der Koenig der Diebe
+ftp://151.217.47.61/Filme/Aladdin-(1992)
+ftp://151.217.47.61/Filme/Alice Im Wunderland Hinter Den Spiegeln (2016)
+ftp://151.217.47.61/Filme/Alice im Wunderland (2010)
+ftp://151.217.47.61/Filme/Alien
+ftp://151.217.47.61/Filme/Alien_-_Die_Wiedergeburt
+ftp://151.217.47.61/Filme/Alien_3
+ftp://151.217.47.61/Filme/Aliens
+ftp://151.217.47.61/Filme/Allegiant-(2016)
+ftp://151.217.47.61/Filme/American Beauty (1999)
+ftp://151.217.47.61/Filme/American Hustle (2013)
+ftp://151.217.47.61/Filme/American Pie (1999)
+ftp://151.217.47.61/Filme/American Pie 2 (2001)
+ftp://151.217.47.61/Filme/American Pie Das Klassentreffen (2012)
+ftp://151.217.47.61/Filme/American Pie The Wedding (2003)
 ftp://151.217.47.61/Filme/American Psycho (2000)
 ftp://151.217.47.61/Filme/American Sniper (2014)
 ftp://151.217.47.61/Filme/American_History_X_(1996)
