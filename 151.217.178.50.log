@@ -4103,3 +4103,128 @@ ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKe
 ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/detail/typetraits.hpp
 ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/detail/vssver.scc
 ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/discard_result_policy.hpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/function.hpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/functor.hpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/iterator_policy.hpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/luabind.hpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/object.hpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/out_value_policy.hpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/return_reference_to_policy.hpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/scope.hpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/vssver.scc
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind/yield_policy.hpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/luabind.lib
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/makefile
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/src/Photo.scr
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/src/class_rep.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/src/create_class.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/src/find_best_match.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/src/function.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/src/implicit_cast.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/src/makefile
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/src/object.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/src/open.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/src/stack_content_by_name.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/src/vssver.scc
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/Photo.scr
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/benchmark.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/main.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/makefile
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_attributes.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_const.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_construction.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_exceptions.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_free_functions.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_held_type.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_implicit_cast.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_iterator.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_lua_classes.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_null_pointer.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_object.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_operators.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_policies.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_scope.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_typetraits.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/test_yield.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/luabind/test/vssver.scc
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/CellSpacePartition.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/Cgdi.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/Cgdi.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/ConsoleUtils.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/FrameCounter.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/FrameCounter.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/Photo.scr
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/PriorityQueue.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/Smoother.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/Stream_Utility_Functions.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/TypeToString.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/WindowUtils.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/WindowUtils.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/autolist.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/iniFileLoaderBase.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/iniFileLoaderBase.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/misc/utils.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/script/Photo.scr
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Common/script/Scriptor.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VC6 projects/Photo.scr
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/Photo.scr
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/BaseGameEntity.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/BaseGameEntity.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/EntityNames.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/Locations.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/Miner.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/Miner.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/MinerOwnedStates.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/MinerOwnedStates.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/Photo.scr
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/State.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/WestWorld1.dsp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/WestWorld1.dsw
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/WestWorld1.sln
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/WestWorld1.vcproj
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorld1/main.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/BaseGameEntity.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/BaseGameEntity.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/EntityManager.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/EntityManager.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/EntityNames.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/Locations.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/MessageDispatcher.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/MessageDispatcher.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/MessageTypes.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/Miner.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/Miner.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/MinerOwnedStates.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/MinerOwnedStates.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/MinersWife.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/MinersWife.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/MinersWifeOwnedStates.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/MinersWifeOwnedStates.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/Photo.scr
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/WestWorldWithMessaging.dsp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/WestWorldWithMessaging.dsw
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/WestWorldWithMessaging.plg
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/WestWorldWithMessaging.sln
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/WestWorldWithMessaging.vcproj
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithMessaging/main.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/BaseGameEntity.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/BaseGameEntity.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/EntityNames.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/Locations.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/Miner.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/Miner.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/MinerOwnedStates.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/MinerOwnedStates.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/MinersWife.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/MinersWife.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/MinersWifeOwnedStates.cpp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/MinersWifeOwnedStates.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/Photo.scr
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/State.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/StateMachine.h
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/WestWorldWithWomen.dsp
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/WestWorldWithWomen.dsw
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/WestWorldWithWomen.sln
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/WestWorldWithWomen.vcproj
+ftp://151.217.178.50/Knowledge/IT/3D, Game/Programming.Game.AI.By.Example-eBooKerz/VS8 projects/Buckland_Chapter2-State Machines/WestWorldWithWoman/main.cpp
